@@ -21,7 +21,7 @@
 title: General Ruin
 email: ericabxy@gmail.com
 description: Documenting the open-source Doom engine and various ways it can be further generalized.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "general-ruin" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ericabxy
 github_username:  ericabxy
