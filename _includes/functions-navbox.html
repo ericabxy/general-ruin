@@ -1,0 +1,13 @@
+<table>
+  <tr><th colspan='2'>Navigation</th></tr>
+  <tr>
+    <th>Functions</th>
+    <td>
+      {% assign docs = site.functions %}
+      {% for doc in docs %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+</table>

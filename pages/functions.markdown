@@ -11,3 +11,5 @@ The MBF engine, based on Boom, added several useful functions to the library whi
 ## Jumpwad
 
 The [_Jumpwad_](https://doomwiki.org/wiki/Jumpwad) mapping project utilized a unique combination of functions and objects to give the player a "jump" action to complete certain challenges. The drawback was getting rid of most of the Hud and consequently many engine features. Game development could benefit from a dedicated "Jump" function that can be assigned like any other codepointer.
+
+{% include functions-navbox.html %}
