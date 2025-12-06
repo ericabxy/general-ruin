@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Controls"
+date:   2025-12-05 14:32:13 -0800
+categories: update
+---
+
+Despite being a computer game, Doom's controls are remarkably minimalist. The game is conceivably playable on something as simple as a Super Famicom controller or a mouse with several buttons.
+
+## Wasted buttons
+
+Some of the engine's dedicated buttons are arguably "wasted" on actions like Strafe and Speed; strafing is the default movement when you have access to a mouse or joystick for freelook, and many players never move at less than top speed. Getting rid of these suggests an alternate control scheme that could fit on something as strange as the Nintendo 64 controller. The following layout is inspired by _Turok: Dinosaur Hunter_ and _Jet Force Gemini_.
+
+| Start      | Activate menu
+| Z Trig     | Fire/Attack
+| B Button   | Previous weapon
+| A Button   | Next weapon
+| C Button R | Strafe right
+| C Button L | Strafe left
+| C Button D | Move backward
+| C Button U | Move forward
+| R Trig     | Use
+| L Trig     | Map
+| Joystick   | Turn left/right (and up/down if applicable)
+
+## Alternate Buttons
+
+Similarly Doom's control system lends itself to alternative gameplay concepts. A kart-racing game running on Doom could be controlled as follows.
+
+| Fire         | Use item
+| Strafe       | Drift
+| Speed        | Accelerate
+| Use          | Brake
+| Left/right   | Turn left/right
